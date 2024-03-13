@@ -31,7 +31,7 @@
 { "type": "Feature", "properties": { "OBJECTID": 26, "Name": null, "ID": 2 }, "geometry": { "type": "Point", "coordinates": [ 77.998209669299598, 30.331667255487901 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 27, "Name": "DOON SCHOOL", "ID": 2 }, "geometry": { "type": "Point", "coordinates": [ 78.031365260451466, 30.333866565893075 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 28, "Name": "RIMC", "ID": 2 }, "geometry": { "type": "Point", "coordinates": [ 78.02189676804727, 30.345599413768834 ] } },
-{ "type": "Feature", "properties": { "OBJECTID": 29, "Name": "updated Name", "ID": 2 }, "geometry": { "type": "Point", "coordinates": [ 77.965444675717052, 30.401109669226553 ] } },
+{ "type": "Feature", "properties": { "OBJECTID": 29, "Name": "updated Name 2", "ID": 2 }, "geometry": { "type": "Point", "coordinates": [ 77.965444675717052, 30.401109669226553 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 30, "Name": null, "ID": 2 }, "geometry": { "type": "Point", "coordinates": [ 77.966736852988291, 30.35958955700907 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 31, "Name": null, "ID": 3 }, "geometry": { "type": "Point", "coordinates": [ 78.088273334027235, 30.400212505715416 ] } },
 { "type": "Feature", "properties": { "OBJECTID": 32, "Name": null, "ID": 3 }, "geometry": { "type": "Point", "coordinates": [ 78.096382031659829, 30.398098571733623 ] } },
